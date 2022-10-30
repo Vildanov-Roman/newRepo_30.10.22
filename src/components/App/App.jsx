@@ -2,7 +2,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 
 import { Header, Section, Container, Text } from 'components';
-import { Gallery, Todos } from 'tabs';
+import { Gallery } from 'tabs';
 
 export const App = () => {
   return (
