@@ -25,9 +25,7 @@ export const App = () => {
               <Gallery />
             </TabPanel>
 
-            <TabPanel>
-              <Todos />
-            </TabPanel>
+            <TabPanel>{/* <Todos /> */}</TabPanel>
           </Tabs>
         </Container>
       </Section>
